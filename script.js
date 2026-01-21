@@ -102,6 +102,7 @@ new TypeIt("#teks1", {
   .break()
   .type(" ")
 
+  
   .break()
   .type("З Днем народження 🖕")
   .pause(1000)
