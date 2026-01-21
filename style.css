@@ -179,9 +179,6 @@ body {
 @media screen and (max-width: 500px) {
   .paper-content .teks {
     font-family: "Playpen Sans", cursive;
-    /* font-family: "Caveat", cursive; */
-    /* font-family: "Bad Script", cursive; */
-    /* font-family: "Handlee", cursive; */
     font-size: 13px;
   }
 }
